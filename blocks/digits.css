@@ -1,14 +1,51 @@
-.digits {}
+.digits {
+  display: flex;
+  justify-content: center;
+  margin: 100px auto 100px auto;
+  display: flex;
+  flex-direction: column;
+}
 
-.section__title {}
+.section__title {
+  max-width: 60%;
+  margin: 0 auto 20px auto;
+  line-height: 1.15;
+  font-size: 60px;
+  font-weight: bold;
+}
 
-.section__subtitle {}
+.section__subtitle {
+  max-width: 60%;
+  margin: 0 auto 60px auto;
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+}
 
-.table {}
+.table {
+  max-width: 1100px;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  row-gap: 60px;
+  margin: 0 auto;
+}
 
-.table__cell {}
+.table__cell {
+  max-width: 250px;
+}
 
-.table__heading {}
+.table__heading {
+  margin-bottom: 20px;
+  line-height: 1.15;
+  font-size: 24px;
+  font-weight: bold;
+}
 
-.table__text {}
+.table__text {
+  max-width: 250px;
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+}
 

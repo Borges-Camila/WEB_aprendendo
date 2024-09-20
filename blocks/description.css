@@ -1,19 +1,41 @@
 .description {
   display: flex;
   justify-content: center;
-  width: 80%;
-  margin-top: 100px;
-  margin-bottom: 100px;
+  margin: 100px auto 100px auto;
 }
 
 .two-collumns {
-
+width: 80%;
+display: flex;
+justify-content: space-between;
 }
 
-.two-collumns__brief {}
+.two-collumns__brief {
+  line-height: 1.2;
+  font-size: 18px;
+  font-weight: normal;
+  color: #2F80ED;
+  max-width: 175px;
+}
 
-.two-collumns__main-text {}
+.two-collumns__main-text {
+  width: 80%;
+  min-width: 784px;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-template-rows: repeat(3, 1fr);
+  row-gap: 30px;
+}
 
-.two-collumns__paragraph {}
+.two-collumns__paragraph {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: normal;
+  text-align: justify;
+}
 
-.two-collumns__paragraph_span-accent {}
+.two-collumns__paragraph_span-accent {
+  line-height: 34px;
+  font-size: 24px;
+  font-weight: bold;
+}

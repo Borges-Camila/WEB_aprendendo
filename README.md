@@ -3,10 +3,10 @@
 <h1 align="center">
 <p><a href="https://borges-camila.github.io/WEB_aprendendo/">Abrir aqui</a></p>
   <img width="427" src= "./github/page1.png">
-  <img width="427" src= "./Github/page2.png">
-  <img width="427" src= "./Github/page3.png">
-  <img width="427" src= "./Github/page4.png">
-  <img width="427" src= "./Github/page5.png">
+  <img width="427" src= "./github/page2.png">
+  <img width="427" src= "./github/page3.png">
+  <img width="427" src= "./github/page4.png">
+  <img width="427" src= "./github/page5.png">
 </h1>
  
 - Projeto desenvolvido com o objetivo de elaborar um website, referente a um extra da Sprint 2 para por em prática novos conhecimentos.

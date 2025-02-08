@@ -13,7 +13,7 @@
 
 ## Tecnologias
 
-- Projeto elaborado utilizando HTML e CSS;
+- Projeto elaborado utilizando HTML e CSS, fram utilizadas animações simples utilizando CSS;
 
 ## Ferramentas
 
@@ -21,7 +21,7 @@
 
 ## Apredizados
 
-- Melhor entendimento da estrutura do html.
+- Melhor entendimento da estrutura do html e aplicabilidade do CSS.
 
 ## Melhorias
 

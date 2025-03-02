@@ -68,12 +68,12 @@
 
 .header__square {
   background: #2f80ed;
-  width: 568px;
-  height: 568px;
+  width: 468px;
+  height: 468px;
   position: absolute;
   top: 64px;
   left: auto;
-  right: 0;
+  right: 100px;
   z-index: -1;
   animation: rotateAnimation 35s linear infinite;
 }

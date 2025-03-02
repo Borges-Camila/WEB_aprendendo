@@ -9,27 +9,17 @@
 }
 
 .kaufman__triangle {
-  max-width: 660px;
-  max-height: 636px;
   position: absolute;
   left: auto;
-  right: 0;
-  top: -40px;
+  right: 120px;
+  top: 190px;
   bottom: auto;
+  transform: rotate(25deg);
   z-index: -10;
-  animation: pulseAnimation 5s ease-in-out infinite;
 }
 
-@keyframes pulseAnimation {
-  0% {
-    transform: scale(1);
-  }
-  50% {
-    transform: scale(1.1);
-  }
-  100% {
-    transform: scale(1);
-  }
+.kaufman__triangle-img {
+  width: 700px;
 }
 
 .section__title_theme-dark {
